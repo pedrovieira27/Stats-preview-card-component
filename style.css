@@ -1,0 +1,89 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+}
+
+.quadrado{
+    background-color: hsl(244, 38%, 16%);
+    width: 300px;
+    height: 200px;
+    position: absolute; top: 150px; left: 300px;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.quadrado2{
+    background-color: hsl(277, 64%, 61%);
+    width: 300px;
+    height: 200px;
+    position: absolute; top: 150px; left: 600px;
+    border-radius: 0px 5px 5px 0px;
+   
+}
+
+.pessoas{
+    width: 300px;
+    height: 200px;
+    position: absolute; top: 150px; left: 600px;
+    border-radius: 0px 5px 5px 0px;
+    opacity : 0.5; 
+}
+
+.titulo{
+    font-family: 'Lexend Deca', sans-serif;
+    color: rgba(255, 255, 255, 0.87);
+    font-size: 20px;
+    margin: 30px 40px;
+}
+
+.roxo{
+    color: hsl(277, 64%, 61%);
+}
+
+.descricao{
+    font-family: 'Lexend Deca', sans-serif;
+    color: rgba(202, 202, 202, 0.37);
+    font-size: 8px;
+    margin: -20px 40px;
+   
+}
+
+.rodape{
+    font-family: 'Lexend Deca', sans-serif;
+    color: rgba(255, 255, 255, 0.87);
+    font-size: 15px;
+    margin: 40px 40px;
+    float:left;
+}
+
+.rodape1{
+    font-family: 'Lexend Deca', sans-serif;
+    color: rgba(255, 255, 255, 0.87);
+    font-size: 15px;
+    margin: 40px 10px;
+    float:left;
+}
+
+.rodape2{
+    font-family: 'Lexend Deca', sans-serif;
+    color: rgba(255, 255, 255, 0.87);
+    font-size: 15px;
+    margin: 40px 30px;
+    float:left;
+}
+
+.r1{
+    font-family: 'Lexend Deca', sans-serif;
+    color: rgba(202, 202, 202, 0.37);
+    font-size: 8px;
+}
+
+.r2{
+    font-family: 'Lexend Deca', sans-serif;
+    color: rgba(202, 202, 202, 0.37);
+    font-size: 8px;
+}
+
+.r3{
+    font-family: 'Lexend Deca', sans-serif;
+    color: rgba(202, 202, 202, 0.37);
+    font-size: 8px;
+}
